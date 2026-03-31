@@ -32,5 +32,7 @@ Dopo anni nell’hospitality, oggi mi dedico allo sviluppo full‑stack, alla UX
 
 ## 📫 Connect with me
 
-LinkedIn: coming soon  
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Tristani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tristani-9a896620b/)  
 Portfolio: coming soon

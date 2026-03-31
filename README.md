@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Marco Tristani
 
-Junior Web Developer & AI enthusiast, focused on building clean and modern digital experiences.  
-Dopo anni nell’hospitality, oggi mi dedico allo sviluppo full‑stack, alla UX e alle tecnologie AI.
+Junior Web Developer & AI enthusiast focused on clean, modern digital experiences. Former hospitality professional, now fully dedicated to full‑stack development, UX, and AI‑driven workflows.
+
+## 🎓 Education
+
+- Full‑Stack Web Development Master (Java, Spring, React) — Boolean
+- Data Master in Generative AI & Prompt Engineering
 
 ## 🛠 Tech Stack
 
@@ -23,7 +27,7 @@ Dopo anni nell’hospitality, oggi mi dedico allo sviluppo full‑stack, alla UX
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### AI
 
@@ -32,7 +36,5 @@ Dopo anni nell’hospitality, oggi mi dedico allo sviluppo full‑stack, alla UX
 
 ## 📫 Connect with me
 
-## 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Tristani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tristani-9a896620b/)  
-Portfolio: coming soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Tristani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tristani-9a896620b/)
+**Portfolio:** coming soon

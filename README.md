@@ -36,5 +36,5 @@ Junior Web Developer & AI enthusiast focused on clean, modern digital experience
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Tristani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tristani-9a896620b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Tristani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tristani-9a896620b/)<br>
 **Portfolio:** coming soon
